@@ -1,7 +1,7 @@
 # ELearning
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.4.
-
+Dans le cadre de la formation Djibouti IT Talent, ce projet final dont j'ai réalisé avec angular est le fruit de mon apprentissage et mon projet concerne les formations ne ligne.
+J'ai mis en place une plate-forme pour les Djiboutiens et Djiboutiennes qui n'ont pas le temps pour faire des formaitons presentiels.
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
